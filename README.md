@@ -28,13 +28,12 @@ Follow the instructions below to set up and run the project.
    git clone https://github.com/LMD17/YouthConnect.git
    ```
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Open the folder in Android Studio.
 
 Run the application in the emulator.
 
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
