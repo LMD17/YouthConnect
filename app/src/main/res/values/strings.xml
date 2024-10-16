@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">YouthConnect</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="password">Password:</string>
+    <string name="surname">Surname:</string>
+    <string name="name">Name:</string>
+    <string name="user">User email:</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account? Register</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="affiliate">Affiliate</string>
+    <string name="admin">Admin</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="role">Role:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="users">Users</string>
+    <string name="events">Events</string>
+    <string name="update">Update</string>
+    <string name="title">Title</string>
+    <string name="activities">Activities:</string>
+    <string name="create">Create</string>
+    <string name="crate_event">Create Event</string>
+    <string name="create_event">Create Event</string>
+    <string name="id">ID</string>
+    <string name="email">Email:</string>
+    <string name="user_id">User ID:</string>
+    <string name="change_role">Change Role:</string>
+    <string name="event_id">Event ID:</string>
+    <string name="date">Date:</string>
+    <string name="time">Time:</string>
+    <string name="change_role_btn">Change Role</string>
+</resources>
